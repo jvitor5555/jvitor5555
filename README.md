@@ -11,7 +11,7 @@
 <p style="text-align: center; font-size: 1.5em;">📫 Como entrar em contato comigo:</p>
 <p style="text-align: center;">
   <a href="mailto:jvfelismino03@gmail.com">
-    <img src="gmail.png" alt="Imagem do Gmail" width="50" style="margin-right: 20px;"/>
+    <img src="gmail.png" alt="Imagem do Gmail" width="50" style="margin-right: 20px; vertical-align: middle;"/>
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-felismino-5j5v5i5t5o5r5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="linkedin.png" alt="Imagem do Linkedin" width="50"/>
